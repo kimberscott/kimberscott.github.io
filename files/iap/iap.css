@@ -1,0 +1,39 @@
+div {
+  position: relative;
+  left: 25%;
+  width: 50%;
+  padding: 20px;
+  /*border: thick solid green;*/
+}
+
+h1 {
+  font-size: x-large;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: large;
+}
+
+td {
+  vertical-align: top;
+  border: 1px;
+}
+
+td p:first-child{
+  text-align: right;
+}
+
+table
+{
+border-collapse:collapse;
+}
+
+table,th, td
+{
+border: 2px solid black;
+}
+
+th {
+  width: 200px;
+}
