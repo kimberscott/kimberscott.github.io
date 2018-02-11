@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "9.46 Neuroscience of Morality"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "TA"
+permalink: /teaching/2014-fall-teaching-1
+venue: "MIT"
+date: 2014-09-01
+location: "Cambridge, MA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Advanced seminar that covers both classic and cutting-edge primary literature from psychology and the neuroscience of morality. Addresses questions about how the human brain decides which actions are morally right or wrong (including neural mechanisms of empathy and self-control), how such brain systems develop over childhood and differ across individuals and cultures, and how they are affected by brain diseases (such as psychopathy, autism, tumors, or addiction). Instruction and practice in written and oral communication provided. (Instructor: Rebecca Saxe)
