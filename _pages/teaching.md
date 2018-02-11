@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+Test text
+
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
