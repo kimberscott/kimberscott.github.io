@@ -1,12 +1,13 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
 Some other non-generated text here
 
+<!---
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -16,3 +17,4 @@ Some other non-generated text here
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+-->
