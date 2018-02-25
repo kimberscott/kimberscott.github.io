@@ -37,3 +37,35 @@
 @import "vendor/font-awesome/font-awesome";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+.studentListing {
+	width:300px;
+	height: 150px;
+	float:left;
+	display:inline;
+	border: thin solid red;
+}
+
+.studentDesc {
+	width: 50%;
+	float: left;
+	line-height: 1.2; 
+	padding: 0; 
+	text-align:left;
+	color: red;
+}
+
+.descImg {
+	float:left;
+}
+
+.studentPic {
+	margin-bottom: 10px; 
+	margin-left: 0px; 
+	margin-right: 10px; 
+	width: 100px;
+	float:left;
+}
+
+	
