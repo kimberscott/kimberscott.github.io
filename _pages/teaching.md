@@ -12,24 +12,13 @@ author_profile: true
 {% for s in site.students reversed %}
   {% include student.html %}
 {% endfor %}
+<div style="clear: both;"></div>
 
 ## Teaching experience
 --------
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
-
-      
-                        <a href="http://www.mit.edu/~kimscott/iap/">9.S93 Baby webcam -- adapting developmental research methods for online testing (MIT)</a> -- instructor, IAP 2013<br />
-                        
-                        <a href="http://yess.caltech.edu/neuroscience/">LEAD Neuroscience (Caltech, high school program)</a> -- lead instructor, Summer 2011 <br />
-
-                        <a>YESS Neuroscience (Caltech, high school program)</a> -- TA, summer 2010<br />
-                        
-                        <a>CS1 Introduction to Computation (Caltech)</a> -- TA, fall 2007, 2008, & 2009<br />
-                        <p class='classblurb'>CS 1 is an introduction to the automated processing of information, including computer programming. This course gives students the conceptual background necessary to understand and construct programs (i.e., specify computations, understand evaluation models, use and understand major constructs, including functions and procedures, scoping and environments, data storage, side-effects, conditionals, recursion and looping, and higher-order functions). CS 1 introduces key issues that arise in computation (e.g., universality, computability, complexity, representation, abstraction management). This course puts the components of computer science in context, serving as an overview for students specializing in computational disciplines and alerting all students to important subtleties that may arise when applying computation in their studies, research, and work. At the end of this course, students should be able to read and write (synthesize, analyze, understand) small programs (100 lines) and have the intellectual framework necessary to rapidly assimilate new computer languages as the need arises. (Instructors: Michael Vanier, Donnie Pinkston)
-
 
 ## Resources 
 --------

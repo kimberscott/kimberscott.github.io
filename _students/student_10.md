@@ -1,7 +1,7 @@
 ---
-name: "Jasmine Gums"
+name: "Scout Brisson"
 collection: students
 terms: "Fall 2014"
-school: "Wellesley"
-image: jasmine.jpg
+school: "MIT"
+image: scout.jpg
 ---
