@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "9.S93 Try this at home: family fun with cognitive development"
 collection: teaching
-type: "Workshop"
+type: "Instructor"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "MIT"
+date: 2014-01-01
+location: "Cambridge, MA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+IAP 2014
+Project-based class in which students develop an "at home lab activity" to teach parents about some aspect of cognitive development. Examples include measuring the child's N-knower level or plotting a habituation curve. Students will be responsible for reading several papers about a scientific finding in cognitive development, piloting a parent-friendly version with local families, and preparing a written and video guide to trying it at home. 

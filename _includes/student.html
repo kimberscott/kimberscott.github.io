@@ -1,0 +1,15 @@
+{% include base_path %}
+
+<div class='studentListing'>
+{% if s.image %}
+<img src={% if s.image contains "://" %}   "{{ s.image }}"
+{% else %}
+  "{{ s.image | prepend: "../files/img/" }}"
+{% endif %} class='studentPic' alt="{{ s.name}}">
+{% endif %}
+<div class="studentDesc">
+{% if s.name %}<strong>{{ s.name }} </strong><br />{% endif %}
+{% if s.terms %}<span>{{ s.terms }} </span><br />{% endif %}
+{% if s.school %}<span>{{ s.school }}</span>{% endif %}
+</div> </div>
+
