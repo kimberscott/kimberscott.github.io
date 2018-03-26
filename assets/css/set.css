@@ -1,0 +1,86 @@
+body {
+	background-color: gray;
+	font-size: large;
+	font-weight: bold;
+}
+
+table{
+	clear: left;
+	text-align:right;
+	margin:2px;
+}
+
+td{
+	font-size: x-large;
+}
+
+div.container {
+height:100%;
+width:100%;}
+
+.match_game_width{
+	text-align: right;
+	margin:0px;
+}
+.match_game_width tr *:first-child{
+	text-align: left;
+}
+
+h1 {
+	font-size:large;
+	clear:none;
+}
+button {
+	line-height: 1.5em;
+	margin:2px;
+}
+
+#game_map{
+	clear: both;
+	float: left;
+}
+#game_map .cell{
+	background-color: white;
+	cursor: pointer;
+	float: left;
+	border: 1px solid #000;
+	padding: 5px;
+	margin: 5px;
+	width: 70px;
+	height: 110px;
+	line-height: 60px;
+	font-size: 30px;
+	text-align: center;
+}
+.clear{
+	clear: both;
+	line-height: 0px;
+}
+
+#game_map .disabled{
+	display:none;
+}
+#game_map .hover{
+	background: #C3C5C9;
+}
+#game_map .marked{
+	background: #969DB3;
+}
+
+#notaset {
+	color: red;
+	font-size: x-large;
+}
+
+.end_game{
+	display: none;
+}
+.timeout{
+	display: none;
+}
+
+.hint{
+	border: 1px solid red;
+}
+
+
