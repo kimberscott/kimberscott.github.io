@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Kim Scott"
 description              : &description "research scientist"
 url                      : https://kimberscott.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "kimberscott/kimberscott.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -81,7 +81,7 @@ author:
   name             : "Kim Scott"
   avatar           : "kimandremy.png"
   bio              : "Bringing developmental research online"
-  location         : "Cambridge, MA"
+  location         : 
   employer         : "MIT"
   googlescholar    : "https://scholar.google.com/citations?user=AiYmXm4AAAAJ&hl=en"
   email            : "kimscott@mit.edu"
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : " https://orcid.org/0000-0002-8356-3129"
+  orcid            : "https://orcid.org/0000-0002-8356-3129"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
