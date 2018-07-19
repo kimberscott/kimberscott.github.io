@@ -32,7 +32,8 @@ progress on the platform, you can join the [lookit-research mailing list](http:/
 
 - Intuitive physics & individual differences in preferential looking (with Liz Spelke, Melissa Kline - [participate: "Your baby, the physicist"](https://lookit.mit.edu/studies/cfddb63f-12e9-4e62-abd1-47534d6c4dd2/))
 
-- Shape sensitivity in 7-month-olds (with Molly Dillon, Liz Spelke - [participate: "Baby Euclid"](https://lookit.mit.edu/studies/c7001e3a-cfc5-4054-a8e0-0f5e520950ab/))
+- Shape sensitivity in 7-month-olds (with Molly Dillon, Liz Spelke - data collection 
+recently completed)
 
 - Preschoolers' politeness judgments (with Erica Yoon, Mike Frank - [participate: "Mind and Manners"](https://lookit.mit.edu/studies/))
 
@@ -75,11 +76,18 @@ Undergraduate SURF paper: Effects of nicotine on neuronal firing patterns in hum
 Undergraduate SURF paper: Detecting multiple oligomerization states by multidimensional analysis of FRET images (<a              href="../../files/slides/KSFinalReportSURF09.pdf">pdf</a>, <a href="../../files/slides/KSperpallSemi0910.pdf">slides</a>)
 
 ## Media coverage
+
+[Society for Science and the Public: Babies, parenthood, and science (June 2018)](https://student.societyforscience.org/blog/doing-science/babies-parenthood-and-science)
+
+[MITili blog: Q&A with MIT's Kim Scott in the Early Childhood Cognition Lab (December 2017)](http://mitili.mit.edu/news/qa-mits-kim-scott-early-childhood-cognition-lab)
+
 [MIT Campaign: Better data on how babies learn (November 2016)](https://betterworld.mit.edu/better-data-babies-learn/)
 
 [Pacific Standard: The 30 top thinkers under 30 (March 2016)](https://psmag.com/social-justice/the-30-top-thinkers-under-30-kim-scott)
 
 [Science News, Growth Curve: Your baby can watch movies for science (June 2014)](https://www.sciencenews.org/blog/growth-curve/your-baby-can-watch-movies-science)
+
+[Parents Magazine: Parents Perspective (June 2014)](https://www.parents.com/parents-magazine/parents-perspective/participate-in-mit-research-from-your-couch/)
 
 [MIT News: MIT launches online lab to study early childhood learning (June 2014)](http://news.mit.edu/2014/mit-launches-online-lab-early-childhood-learning-lookit)
 
