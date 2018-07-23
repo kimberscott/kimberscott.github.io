@@ -55,6 +55,10 @@ My more empirical work has focused on early conscious experience: for instance, 
 
 Scott, K. M. Split-brain babies? Differences in representation of bilaterally and unilaterally presented visual concepts in infancy. Submitted; draft available upon request.
 
+Scott, K. M. and Kline, M. Enabling confirmatory secondary data analysis by logging data 'checkout'. Submitted.
+
+Chouinard, B., Scott, K., and Cusack, R. Using automatic face analysis to score infant behaviour from video collected online. Submitted; revising.
+
 Scott, K. M. and Schulz, L. E. (2017). Lookit (part 1): a new online platform for developmental research. Open Mind 1(1):4-14. (<a href="https://www.mitpressjournals.org/doi/full/10.1162/OPMI_a_00002">full text</a>)
 
 Scott, K. M., Chu, J., and Schulz, L. E. (2017). Lookit (part 2): Assessing the viability of online developmental research, results from three case studies. Open Mind 1(1):15-29.
