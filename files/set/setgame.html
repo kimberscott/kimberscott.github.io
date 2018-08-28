@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>The Game of SET</title>
+	<link rel="stylesheet" href="set.css" type="text/css" />
+
+	<script type="text/javascript" src="jquery-1.7.2.js"></script>
+	<script type="text/javascript" src="jquery.shuffle.js" ></script>
+	<script type="text/javascript" src="setscript.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44818939-1', 'mit.edu');
+  ga('send', 'pageview');
+
+</script>
+</head>
+<body>
+	<table class="match_game_width">
+		<tr>
+			<td><button id="restart">Restart</button></td>
+			<td><button id="three_more" class="align_game_right">Three more!</button></td>
+		</tr>
+	</table>
+	
+	<div id="game_map" class="clear">
+	</div>
+	
+	<table class="match_game_width">
+		<tr>
+			<th>Sets</th>
+			<th>Misses</th>
+		</tr>
+		<tr>
+			<td id="set_count">0</td>
+			<td id="miss_count">0</td>
+		</tr>
+	</table>
+	
+	<h1 id="notaset" class="timeout"> Timeout: that's not a set!
+	</h1>
+
+</body>
+</html>
