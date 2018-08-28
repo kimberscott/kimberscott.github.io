@@ -9,6 +9,4 @@ terms: "Summer 2010"
 location: "Pasadena, CA"
 ---
 
-[Summer program] for underrepresented high school students.
-
-[Summer program]: http://yess.caltech.edu/neuroscience/
+Summer program for underrepresented high school students with courses in CS & neuroscience.

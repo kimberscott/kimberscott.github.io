@@ -11,4 +11,4 @@ location: "Cambridge, MA"
 
 See [syllabus].
 
-[Syllabus]: http://www.mit.edu/~kimscott/iap/
+[Syllabus]: ../../files/iap/index
