@@ -45,6 +45,13 @@ recently completed)
 
 - Literacy assessment and intervention (with Reaching Every Reader, Harvard/MIT)
 
+- Intermodal speech matching (with Halie Olson, Rebecca Saxe)
+
+### Automated gaze coding for developmental research
+
+The next bottleneck for running infant studies at scale is coding the data: a human needs to watch the collected video, generally at 1/10 - 1/2 speed depending on the desired granularity, to record where the infant is looking each frame. Algorithms for automated gaze coding from natural-light video (as opposed to measurements from specialized eyetracking hardware) are finally reaching the point where they could be productively adapted for developmental data collection. (Take a look at some examples of running OpenFace on webcam video of babies: [1](https://drive.google.com/open?id=1pkmLJ_ICEcuShy9SNTWguGRVRhTITdJp), [2](https://drive.google.com/open?id=1o5WKNCjYE58x6FcQ0NmK6B65TNZk7ro4).)
+To get involved in efforts in this direction, you can join the [baby-gaze-coding mailing list](http://mailman.mit.edu/mailman/listinfo/baby-gaze-coding). 
+
 ## What's it like to be a baby?
 
 <img src="../../files/img/newborn_remy.jpg" alt="newborn baby" class="research_thumbnail" />
@@ -53,11 +60,11 @@ My more empirical work has focused on early conscious experience: for instance, 
                     
 ## Papers
 
-Scott, K. M. Split-brain babies? Differences in representation of bilaterally and unilaterally presented visual concepts in infancy. Submitted; draft available upon request.
+Scott, K. M. Split-brain babies? Differences in representation of bilaterally and unilaterally presented visual concepts in infancy. Submitted (<a href="https://psyarxiv.com/mnfx8/">preprint</a>).
 
-Scott, K. M. and Kline, M. Enabling confirmatory secondary data analysis by logging data 'checkout'. Submitted.
+Scott, K. M. and Kline, M. Enabling confirmatory secondary data analysis by logging data 'checkout'. Under revision (<a href="https://psyarxiv.com/87wjc/">preprint</a>).
 
-Chouinard, B., Scott, K., and Cusack, R. Using automatic face analysis to score infant behaviour from video collected online. Submitted; revising.
+Chouinard, B., Scott, K., and Cusack, R. Using automatic face analysis to score infant behaviour from video collected online. Under revision (<a href="https://psyarxiv.com/h46nr/">preprint</a>).
 
 Scott, K. M. and Schulz, L. E. (2017). Lookit (part 1): a new online platform for developmental research. Open Mind 1(1):4-14. (<a href="https://www.mitpressjournals.org/doi/full/10.1162/OPMI_a_00002">full text</a>)
 
