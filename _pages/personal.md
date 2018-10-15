@@ -17,7 +17,7 @@ Personal projects:
 
 - I kept track of a lot of things my oldest son said as he learned to talk [here](https://remysays.tumblr.com/tagged/chrono/chrono). Sometimes they're relevant to cognitive development (feel free to use--just let us know, because he'll be proud).
 
-- To familiarize myself with Django I'm building a [simple implementation](https://github.com/kimberscott/minichore) of my family's 
+- To familiarize myself with Django I built a [simple implementation](https://github.com/kimberscott/minichore) of my family's 
 system for assigning chores to household members... which is to say, brute-force minimax.
 How cool is it to know that, by your very own rankings, you are doing 45% of the work, and 
 so is your partner? [Try it out here.](http://minichore.herokuapp.com/)
