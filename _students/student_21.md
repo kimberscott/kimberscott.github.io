@@ -1,7 +1,7 @@
 ---
-name: "Rianna Shah"
+name: "Alice Wang"
 collection: students
-terms: "IAP, Spring, Fall 2015; IAP & Spring 2016; Spring 2018"
+terms: "Summer 2017"
 school: "MIT"
-image: rianna.jpg
+image: alicewang.png
 ---
