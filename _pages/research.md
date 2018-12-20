@@ -35,7 +35,7 @@ progress on the platform, you can join the [lookit-research mailing list](http:/
 - Shape sensitivity in 7-month-olds (with Molly Dillon, Liz Spelke - data collection 
 recently completed)
 
-- Preschoolers' politeness judgments (with Erica Yoon, Mike Frank - [participate: "Mind and Manners"](https://lookit.mit.edu/studies/))
+- Preschoolers' politeness judgments (with Erica Yoon, Mike Frank - data collection recently completed)
 
 - Preschoolers' expectations of ingroup/outgroup behavior (with Lisa Chalik, Yarrow Dunham - [participate: "Flurps and Zazzes"](https://lookit.mit.edu/studies/1e9157cd-b898-4098-9429-a599720d0c0a/))
 
@@ -46,6 +46,8 @@ recently completed)
 - Literacy assessment and intervention (with Reaching Every Reader, Harvard/MIT)
 
 - Intermodal speech matching (with Halie Olson, Rebecca Saxe)
+
+- Baby laughter (with Caspar Addyman)
 
 ### Automated gaze coding for developmental research
 
@@ -60,11 +62,11 @@ My more empirical work has focused on early conscious experience: for instance, 
                     
 ## Papers
 
-Scott, K. M. Split-brain babies? Differences in representation of bilaterally and unilaterally presented visual concepts in infancy. Under revision (<a href="https://psyarxiv.com/mnfx8/">preprint</a>).
+Scott, K. M. Split-brain babies? Differences in representation of bilaterally and unilaterally presented visual concepts in infancy. (In press.) Frontiers in Psychology.  (<a href="https://psyarxiv.com/mnfx8/">preprint</a>, <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02758/abstract"> abstract </a>).
 
 Scott, K. M. and Kline, M. Enabling confirmatory secondary data analysis by logging data 'checkout'. (In press.) Advances in Methods and Practices in Psychological Science. (<a href="https://psyarxiv.com/87wjc/">preprint</a>)
 
-Chouinard, B., Scott, K., and Cusack, R. (In press.) Using automatic face analysis to score infant behaviour from video collected online. Infant Behavior and Development. (<a href="https://psyarxiv.com/h46nr/">preprint</a>)
+Chouinard, B., Scott, K., and Cusack, R. (2019). Using automatic face analysis to score infant behaviour from video collected online. Infant Behavior and Development 54:1-12. https://doi.org/10.1016/j.infbeh.2018.11.004. (<a href="https://www.sciencedirect.com/science/article/pii/S0163638318301395">full text</a>)
 
 Scott, K. M. and Schulz, L. E. (2017). Lookit (part 1): a new online platform for developmental research. Open Mind 1(1):4-14. (<a href="https://www.mitpressjournals.org/doi/full/10.1162/OPMI_a_00002">full text</a>)
 
