@@ -25,29 +25,8 @@ The Lookit website allows families to participate in developmental studies onlin
 
 - make it easier to share complete protocols and materials so that other scientists can understand and build on a finding
 
-Learn more or participate with your kids at [Lookit](https://lookit.mit.edu), view the source code on [github](https://github.com/lookit/) (lookit, experimenter, and                                      exp-addons repos), or connect with us on [Facebook](https://www.facebook.com/lookit.mit.edu) or [Instagram](https://www.instagram.com/babiesoflookit/). To stay up-to-date on 
-progress on the platform, you can join the [lookit-research mailing list](http://mailman.mit.edu/mailman/listinfo/lookit-research).
-
-### Current & planned projects
-
-- Intuitive physics & individual differences in preferential looking (with Liz Spelke, Melissa Kline - [participate: "Your baby, the physicist"](https://lookit.mit.edu/studies/cfddb63f-12e9-4e62-abd1-47534d6c4dd2/))
-
-- Shape sensitivity in 7-month-olds (with Molly Dillon, Liz Spelke - data collection 
-recently completed)
-
-- Preschoolers' politeness judgments (with Erica Yoon, Mike Frank - data collection recently completed)
-
-- Preschoolers' expectations of ingroup/outgroup behavior (with Lisa Chalik, Yarrow Dunham - [participate: "Flurps and Zazzes"](https://lookit.mit.edu/studies/1e9157cd-b898-4098-9429-a599720d0c0a/))
-
-- Neonatal imitation (with Laurie Bayet)
-
-- Approximate number system acuity in deaf and hard-of-hearing children (with Stacee Santos)
-
-- Literacy assessment and intervention (with Reaching Every Reader, Harvard/MIT)
-
-- Intermodal speech matching (with Halie Olson, Rebecca Saxe)
-
-- Baby laughter (with Caspar Addyman)
+Learn more or participate with your kids at [Lookit](https://lookit.mit.edu), view the source code on [github](https://github.com/lookit/), or connect with us on [Facebook](https://www.facebook.com/lookit.mit.edu) or [Instagram](https://www.instagram.com/babiesoflookit/). 
+If you're interested in running your own research on the platform, please check out the [wiki](https://github.com/lookit/research-resources/wiki) to get started.
 
 ### Automated gaze coding for developmental research
 
@@ -62,9 +41,12 @@ My more empirical work has focused on early conscious experience: for instance, 
                     
 ## Papers
 
-Scott, K. M. Split-brain babies? Differences in representation of bilaterally and unilaterally presented visual concepts in infancy. (In press.) Frontiers in Psychology.  (<a href="https://psyarxiv.com/mnfx8/">preprint</a>, <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02758/abstract"> abstract </a>).
+*Sheskin, M., *Scott, K., Mills, C. M., Bergelson, E., Bonawitz, E., Spelke, E. S., ... & Jara-Ettinger, J. (2020). Online Developmental Science to Foster Innovation, Access, and Impact. Trends in Cognitive Sciences. https://doi.org/10.1016/j.tics.2020.06.004 (<a href="https://www.sciencedirect.com/science/article/pii/S1364661320301455">full text</a>)
 
-Scott, K. M. and Kline, M. Enabling confirmatory secondary data analysis by logging data 'checkout'. (In press.) Advances in Methods and Practices in Psychological Science. (<a href="https://psyarxiv.com/87wjc/">preprint</a>)
+Scott, K. M. (2019). Split-brain Babies? Differences in Representation of Bilaterally and Unilaterally Presented Visual Stimuli in Infancy. Frontiers in psychology, 9, 2758. (<a href="https://psyarxiv.com/mnfx8/">preprint</a>, <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02758/full"> full text </a>).
+
+Scott, K. M., & Kline, M. (2019). Enabling confirmatory secondary data analysis by logging data checkout. Advances in Methods and Practices in Psychological Science, 2(1), 45-54.
+https://doi.org/10.1177/2515245918815849. (<a href="https://journals.sagepub.com/doi/full/10.1177/2515245918815849">full text</a>)
 
 Chouinard, B., Scott, K., and Cusack, R. (2019). Using automatic face analysis to score infant behaviour from video collected online. Infant Behavior and Development 54:1-12. https://doi.org/10.1016/j.infbeh.2018.11.004. (<a href="https://www.sciencedirect.com/science/article/pii/S0163638318301395">full text</a>)
 
