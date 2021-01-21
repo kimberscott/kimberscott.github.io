@@ -25,8 +25,8 @@ The Lookit website allows families to participate in developmental studies onlin
 
 - make it easier to share complete protocols and materials so that other scientists can understand and build on a finding
 
-Learn more or participate with your kids at [Lookit](https://lookit.mit.edu), view the source code on [github](https://github.com/lookit/), or connect with us on [Facebook](https://www.facebook.com/lookit.mit.edu) or [Instagram](https://www.instagram.com/babiesoflookit/). 
-If you're interested in running your own research on the platform, please check out the [wiki](https://github.com/lookit/research-resources/wiki) to get started.
+Learn more or participate with your kids at [Lookit](https://lookit.mit.edu), view the source code on [GitHub](https://github.com/lookit/), or connect with us on [Facebook](https://www.facebook.com/lookit.mit.edu). 
+If you're interested in running your own research on the platform, please check out the [documentation](https://lookit.readthedocs.io/en/develop/researchers-start-here.html) to get started.
 
 ### Automated gaze coding for developmental research
 
@@ -37,7 +37,7 @@ To get involved in efforts in this direction, you can join the [baby-gaze-coding
 
 <img src="../../files/img/newborn_remy.jpg" alt="newborn baby" class="research_thumbnail" />
 
-My more empirical work has focused on early conscious experience: for instance, how infants merge multiple representations of the same concept; understand the passage of time; and distinguish among imagery, memory, and  perception.
+My more empirical work has focused on early conscious experience: for instance, how infants merge multiple representations of the same concept; understand the passage of time; and distinguish among imagery, memory, and perception.
                     
 ## Papers
 
