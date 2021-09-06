@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a research scientist in the [Early Childhood Cognition Lab](http://eccl.mit.edu/) at [MIT](http://www.mit.edu/). 
-My main focus is developing and running an online platform for doing behavioral research with children, [Lookit](https://lookit.mit.edu/). 
-Among other applications, I'm especially interested in using this platform to advance research 
-that directly helps families and to better characterize individual differences in development.
+I'm currently a software engineer at Form Energy, which is working towards a 100% renewable electric
+grid by developing long-duration energy storage. I develop tools for researchers to access
+and analyze data from experiments on batteries.
+
+Until 2021, I was a research scientist in the 
+[Early Childhood Cognition Lab](http://eccl.mit.edu/) at [MIT](http://www.mit.edu/). I 
+developed and ran the online platform for doing behavioral research with children  
+[Lookit](https://lookit.mit.edu/). 
