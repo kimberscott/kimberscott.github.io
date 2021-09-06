@@ -5,7 +5,7 @@ permalink: /personal/
 author_profile: true
 ---
 
-Some hobbies outside of studying & raising children:
+Some hobbies outside of software development & raising children:
 
 - [salsa dancing](https://www.youtube.com/watch?v=pVUZN3J0C0I)
 
