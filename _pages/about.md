@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a software engineer at Form Energy, which is working towards a 100% renewable electric
+I'm currently a software engineer at [Form Energy](https://formenergy.com/), which is working towards a 100% renewable electric
 grid by developing long-duration energy storage. I develop tools for researchers to access
 and analyze data from experiments on batteries.
 
